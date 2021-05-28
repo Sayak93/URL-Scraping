@@ -1,0 +1,21 @@
+{
+  "name": "diagnal",
+  "version": "1.0.0",
+  "description": "Assignment Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "'"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.3",
+    "mocha": "^8.3.1",
+    "node-html-parser": "^3.0.4",
+    "request": "^2.88.2"
+  }
+}
